@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Mockup Generator",
+  "description": "Generate web application mockups from a text description using AI. Describe your desired UI, and get HTML with Tailwind CSS code instantly.",
+  "requestFramePermissions": []
+}
